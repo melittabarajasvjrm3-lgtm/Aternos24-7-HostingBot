@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "test750.mcsh.io",
-    "port": 62213,
+    "port": 2022,
     "version": "",
     "try-creative": false
   },
